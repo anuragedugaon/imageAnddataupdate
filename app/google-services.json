@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "302918604835",
+    "project_id": "kotlin-for-android-ba599",
+    "storage_bucket": "kotlin-for-android-ba599.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302918604835:android:db9c34800f379e1c91b996",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmesseging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302918604835-cmcksocst7s8iigal2sqinsr884kji8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSwcUIRwcY_UyOCS9V7uFihMlU17PLcII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302918604835-88ttcn1mf14je96g5vjaj69t1civitp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302918604835:android:bf0ed0f45e98058f91b996",
+        "android_client_info": {
+          "package_name": "com.example.googleauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302918604835-cmcksocst7s8iigal2sqinsr884kji8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSwcUIRwcY_UyOCS9V7uFihMlU17PLcII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302918604835-88ttcn1mf14je96g5vjaj69t1civitp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302918604835:android:064bd30fc0a2c31f91b996",
+        "android_client_info": {
+          "package_name": "com.example.razerpayforpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302918604835-cmcksocst7s8iigal2sqinsr884kji8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSwcUIRwcY_UyOCS9V7uFihMlU17PLcII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302918604835-88ttcn1mf14je96g5vjaj69t1civitp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302918604835:android:005bb86dd218567b91b996",
+        "android_client_info": {
+          "package_name": "com.famous.coader.kotlinforandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302918604835-gbn1ss1u00hl393cqjih2olk3e8htig1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.famous.coader.kotlinforandroid",
+            "certificate_hash": "51985371d0cefc8e536d0c78f88009860af33e8a"
+          }
+        },
+        {
+          "client_id": "302918604835-cmcksocst7s8iigal2sqinsr884kji8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSwcUIRwcY_UyOCS9V7uFihMlU17PLcII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302918604835-88ttcn1mf14je96g5vjaj69t1civitp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
